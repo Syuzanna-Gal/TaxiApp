@@ -1,4 +1,4 @@
-package com.example.mycurrentlocation
+package com.example.taxiapp
 
 import android.app.Application
 import androidx.annotation.RequiresPermission

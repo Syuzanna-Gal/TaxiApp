@@ -7,7 +7,6 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.PermissionChecker
 import androidx.lifecycle.lifecycleScope
-import com.example.mycurrentlocation.MainViewModel
 import com.google.android.gms.maps.model.LatLng
 import com.yandex.mapkit.MapKitFactory
 import com.yandex.mapkit.RequestPoint
